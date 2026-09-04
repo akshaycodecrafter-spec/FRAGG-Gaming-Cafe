@@ -2,7 +2,7 @@
 
 A cinematic single-page site for a gaming cafe built around one idea: gamers don't want to read a brochure, they want to see the setup and book a seat.
 
-🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
+🔗 **Live:** https://fragg-gaming-cafe.akshaycodecrafter.workers.dev/
 
 ## Preview
 
