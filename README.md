@@ -4,6 +4,23 @@ A cinematic single-page site for a gaming cafe built around one idea: gamers don
 
 🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
 
+## Preview
+
+![Hero section showing station count, booking status, and game marquee](assets/preview-1-hero.png)
+*Dark-themed hero with glowing accents, live station count, and scrolling game marquee.*
+
+![Games library grid with cover art cards for GTA V, God of War, Spider-Man 2, and more](assets/preview-2-games.png)
+*Cover art grid displaying the full game library with genre tags and hover effects.*
+
+![Station tiers showing Standard, Pro, and VIP Bay pricing and specs](assets/preview-3-stations.png)
+*Three-tier station cards with hardware specs, pricing, and booking buttons.*
+
+![Pricing toggle between hourly and subscription plans](assets/preview-4-pricing.png)
+*Pricing section with hourly and monthly subscription plan options.*
+
+![Booking section with WhatsApp and phone call options](assets/preview-5-booking.png)
+*Direct WhatsApp and call booking links for quick session reservation.*
+
 ## About
 
 FRAGG is a concept landing page for a high-end gaming cafe — the kind of place with 240Hz rigs, dedicated console bays, and a library that runs deeper than the usual FIFA-and-Valorant rotation. I wanted the page itself to feel like walking into the place: dark theme, glowing accents, a hero that leads straight into the games library instead of a wall of marketing copy. No sign-up forms, no dashboards — just enough to get someone from "curious" to "booked" in a couple of taps.
